@@ -1,6 +1,6 @@
 # getWeather
 
-> My prime Nuxt.js project
+> My cat&#39;s meow Nuxt.js project
 
 ## Build Setup
 
