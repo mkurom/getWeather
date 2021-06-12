@@ -15,7 +15,8 @@
     "@nuxtjs/dotenv": "^1.4.1",
     "nuxt": "^2.0.0",
     "is-svg": ">=4.2.2",
-    "postcss": ">=8.2.10"
+    "postcss": ">=8.2.10",
+    "normalize-url": ">=4.5.1"
   },
   "devDependencies": {}
 }
